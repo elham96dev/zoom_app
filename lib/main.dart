@@ -15,6 +15,7 @@ class App extends StatelessWidget {
   home: HomeView(),
  );
  
+ // set provider
 
   }
 }
